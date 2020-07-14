@@ -1,4 +1,4 @@
-# CNN Explainer
+# CNN Explainer(CNN解释器 )
 
 An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
 
